@@ -52,3 +52,12 @@ span{
     margin-top: 10px;
     display: block;
 }
+.footer{
+    align-items: center;
+    padding-top: 10px;
+}
+.footer-text{
+    color: aqua;
+    align-items: center;
+    padding-left: 310px;
+}
